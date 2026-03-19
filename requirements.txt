@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+Pillow
+torch
+transformers
+numpy
+facenet-pytorch
+deepface
+audio-recorder-streamlit
+SpeechRecognition
+streamlit-autorefresh
